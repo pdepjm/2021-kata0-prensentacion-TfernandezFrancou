@@ -1,6 +1,8 @@
 # Presentación
 
-## Estudiante: Tomas Fernandez Francou
+## Estudiante: Tomás Fernández Francou
 ![mi foto](FotoCarnet.png)
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNHQ5dzaVFhKPd4UxLOGhZa9Ix_bDgpyIftq4gqzz7674dHmHkcH2oH9TpQ_TsghZkiSPBoUm2ftzM/pub).
+Como entrerriano me siento en el deber de aclarar dos cosas:
+1.  Sí, acá hay transporte público
+2.  No, no andamos en caballo ni ningún otro animal de granja
