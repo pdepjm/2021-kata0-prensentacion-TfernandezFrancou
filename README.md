@@ -1,6 +1,6 @@
 # Presentación
 
-## Estudiante: Tomás Fernández Francou
+### Estudiante: Tomás Fernández Francou
 ![mi foto](FotoCarnet.png)
 
 Como entrerriano me siento en el deber de aclarar dos cosas:
